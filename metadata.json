@@ -1,0 +1,5 @@
+{
+  "name": "投研熊 (Investment Research Bear)",
+  "description": "An AI-powered investment analysis tool that simulates a discussion among a panel of financial experts (Macro, Industry, Market Research, Quant, Technical) to provide a comprehensive investment recommendation based on a user's query.",
+  "requestFramePermissions": []
+}
